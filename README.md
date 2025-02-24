@@ -1,9 +1,9 @@
-__name__   
-@app.route()   
-변수 출력 : {{ … }}   
-제어 구조 : {% … %}   
-{% if user %} / {% else %} / {% endif %}   
-{% for item in item_list %} / {% endfor %}   
+- __name__   
+- @app.route()   
+- 변수 출력 : {{ … }}   
+- 제어 구조 : {% … %}   
+- {% if user %} / {% else %} / {% endif %}   
+- {% for item in item_list %} / {% endfor %}   
    
 이것을 사용해서 mysql 데이터를 불러와 페이지에 담았습니다.
 
